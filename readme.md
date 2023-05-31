@@ -16,7 +16,7 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/comprehensive-code-comparison.git
+   git clone https://github.com/3ichael7ambert/comprehensive-code-comparison.git
    ```
 
 2. Navigate to the desired language folder that you are interested in.
